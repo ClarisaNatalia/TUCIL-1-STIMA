@@ -10,4 +10,4 @@ Cryptartihmetic Solver - Tucil 1 Strategi Algoritma IF2211
  
  # Author's note
   - Pastikan saat menjalankan program, file .txt berada pada file yang sama dengan file .py
-  - Jika ingin menjalankan program dengan file .txt tertentu, bisa mengganti 'tes.txt' pada baris ke - 10 di file .py dengan nama file yang diinginkan
+  - Jika ingin menjalankan program dengan file .txt tertentu, bisa mengganti 'tes.txt' pada baris ke - 10 di file Tucil 1 STIMA.py dengan nama file yang diinginkan
