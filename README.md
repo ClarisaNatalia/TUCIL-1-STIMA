@@ -5,6 +5,10 @@ Cryptartihmetic Solver - Tucil 1 Strategi Algoritma IF2211
 # Requirement 
  - Python3.5 
  
+# How to run program
+ 1. ubah nama file tes yang ingin diuji pada baris ke - 10 "Tucil 1 STIMA.py" 
+ 2. run program dengan klik tombol run pada IDE
+ 
  # Author
  Clarisa Natalia Edelin 13519213
  
